@@ -1,0 +1,15 @@
+@import "tailwindcss";
+
+@layer base {
+  body {
+    background-color: #f3f7f5;
+    color: #1f2937;
+    font-family: ui-sans-serif, system-ui, sans-serif;
+  }
+}
+
+@theme {
+  --color-primary-dark: #194838;
+  --color-primary-light: #287a5e;
+  --color-background: #f3f7f5;
+}
